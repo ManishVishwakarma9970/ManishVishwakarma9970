@@ -5,16 +5,16 @@
 <h1 align="center">Hi 👋, I'm Manish Vishwakarma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;GenAI+Engineer;Data+Analytics+%26+Data+Science;AI+%26+Machine+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;GenAI+Engineer;Data+Analytics+%26+Data+Science;AI%2FML+Enthusiast" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ManishVishwakarma9970/ManishVishwakarma9970/main/profile.jpg" width="160" style="border-radius:50%;border:3px solid #0F2027;box-shadow:0 0 20px rgba(0,194,255,0.3);" />
+  <img src="https://raw.githubusercontent.com/ManishVishwakarma9970/ManishVishwakarma9970/main/profile.jpg" width="160" style="border-radius:50%;border:3px solid #0F2027;box-shadow:0 0 20px rgba(0,194,255,0.5);" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ManishVishwakarma9970&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ManishVishwakarma9970&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square" />
 </p>
 
 ---
@@ -112,30 +112,42 @@
     <td align="center" width="50%">
       <h3>🎵 Spotify Clone</h3>
       <p>Full-stack music streaming platform</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
     </td>
     <td align="center" width="50%">
       <h3>🐦 Twitter Clone</h3>
       <p>Social media platform with real-time updates</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
     </td>
   </tr>
   <tr>
     <td align="center">
       <h3>✅ itTask</h3>
       <p>Advanced task management application</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
     </td>
     <td align="center">
       <h3>🔐 Passop</h3>
       <p>Secure password manager</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center">
       <h3>🔥 Firebase Auth App</h3>
       <p>Authentication & real-time database</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
     </td>
     <td align="center">
       <h3>▶️ Android Playlist</h3>
       <p>Mobile music playlist manager</p>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -151,7 +163,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManishVishwakarma9970&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ManishVishwakarma9970&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishVishwakarma9970&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -159,15 +172,25 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishVishwakarma9970&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishVishwakarma9970&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
 </p>
 
 ---
 
-## 🔥 GitHub Contribution Calendar
+## 🔥 GitHub Contribution Heatmap
 
 <p align="center">
-  <img alt="GitHub Contribution Calendar" src="https://ghchart.roo.dev/ManishVishwakarma9970" />
+  <a href="https://github.com/ManishVishwakarma9970">
+    <img alt="GitHub Contribution Heatmap" src="https://github-readme-contribution-stats.vercel.app/api?username=ManishVishwakarma9970&hide_border=true&bg_color=0d1117&text_color=fff" />
+  </a>
+</p>
+
+---
+
+## 📊 Contribution Stats
+
+<p align="center">
+  <img src="https://github-user-contribution.vercel.app/api?username=ManishVishwakarma9970&hide_border=true&bg_color=0d1117" />
 </p>
 
 ---
@@ -177,6 +200,18 @@
 <!-- BLOG-POST-LIST:START -->
 - Check back soon for latest articles!
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🎯 Interests & Focus Areas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web_Development-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI/ML-4ECDC4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Science-45B7D1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-FFA502?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevOps-95E1D3?style=for-the-badge" />
+</p>
 
 ---
 
@@ -195,6 +230,19 @@
   <a href="https://github.com/ManishVishwakarma9970" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💡 Open Source Contributions
+
+I actively contribute to open-source projects and believe in giving back to the community. Check out my repositories to see what I'm working on!
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_Source_Enthusiast-✨-yellow?style=for-the-badge" />
 </p>
 
 ---
