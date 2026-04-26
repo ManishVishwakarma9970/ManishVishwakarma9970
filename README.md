@@ -1,94 +1,167 @@
 <p align="center">
-  <!-- Optional Banner: Upload a file named banner.png in this repo to show here -->
-  <img src="https://github.com/ManishVishwakarma9970/ManishVishwakarma9970/blob/main/banner.png" alt="Banner Image" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Manish%20Vishwakarma&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hey 👋, I'm Manish Vishwakarma</h1>
-<h3 align="center">Aspiring Software Engineer | Data, AI & Full-Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Manish Vishwakarma</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ManishVishwakarma9970&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;GenAI+Engineer;Data+Analytics+%26+Data+Science;Building+Scalable+AI+Products" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ManishVishwakarma9970/ManishVishwakarma9970/main/profile.jpg" width="160" style="border-radius:50%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ManishVishwakarma9970&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me  
 
-I’m a passionate developer focused on building **real-world applications** and **intelligent data-driven solutions**.  
-I love writing clean code, building engaging interfaces, and exploring data & AI technologies. :contentReference[oaicite:4]{index=4}
-
-- 🎯 Building scalable full-stack projects  
-- 📚 Learning Machine Learning, AI, PySpark & modern web frameworks  
-- 💡 Exploring LangChain, LLMs, RAG systems  
-- 💼 Always open to collaboration & growth 🚀
+💡 Building **modern web + AI systems**  
+🤖 Deep into **LLMs, LangChain & RAG pipelines**  
+📊 Passionate about **Data Analytics & Data Science**  
+💻 Writing clean, scalable & production-ready code  
+🚀 Always learning & building  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### 👨‍💻 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 🌐 Frontend & UI  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 📱 Mobile & Backend  
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 📊 Data & AI  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-learn](https://img.shields.io/badge/scikit–learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark)
-
-### ⚙️ Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi)
+### 🌐 Frontend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
+</p>
 
 ---
 
-## 📌 Featured Projects  
-
-Here are some cool projects I’ve worked on: :contentReference[oaicite:5]{index=5}
-
-### 🧠 Web & App Development  
-🔹 **spotify-clone** – UI clone of music streaming app  
-🔹 **twitter-clone** – Social feed interface with interactive UI  
-🔹 **itTask** – Task management tool built with JS  
-
-### 📱 Mobile Dev  
-🔹 **Android-Playlist-Demo** – Android demo of playlist UI & logic  
-🔹 **Firebase-SignUp-App** – Android signup flow with Firebase auth  
-
-### 🔐 Utilities  
-🔹 **Passop** – Personal Password Manager UI & logic
-
-👉 *Explore all my repositories to see more!* :contentReference[oaicite:6]{index=6}
+### ⚙️ Backend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,nodejs,express" />
+</p>
 
 ---
 
-## 📈 GitHub Stats  
+### 🤖 Generative AI (GenAI)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/LangChain-00C2FF?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-AI-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector%20DB-Database-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Pipeline-orange?style=for-the-badge" />
+</p>
+
+---
+
+### 📊 Data Analytics  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+- Pandas • NumPy • Matplotlib  
+
+---
+
+### 🧠 Data Science  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+</p>
+
+---
+
+### 🗄️ Databases  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+---
+
+### 📱 Mobile Development  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java" />
+</p>
+
+---
+
+### 💻 Programming Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,java,php,js" />
+</p>
+
+---
+
+### 🧰 Tools & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
+
+---
+
+## 🚀 Projects  
+
+✨ Spotify Clone  
+✨ Twitter Clone  
+✨ itTask – Task Manager  
+✨ Firebase Auth App  
+✨ Android Playlist Demo  
+✨ Passop – Password Manager  
+
+👉 Explore More:  
+https://github.com/ManishVishwakarma9970  
+
+---
+
+## 📈 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManishVishwakarma9970&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManishVishwakarma9970&theme=tokyonight" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ManishVishwakarma9970&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManishVishwakarma9970&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ManishVishwakarma9970&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishVishwakarma9970&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ManishVishwakarma9970/ManishVishwakarma9970/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🤝 Connect With Me  
 
-📌 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
-📌 Email: your.email@example.com  
-📌 Portfolio: Coming Soon
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
-<p align="center">⭐ If you like my work, give this repo a star!</p>
+<p align="center">
+  ⭐ If you like my work, give a star to my repositories!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+</p>
