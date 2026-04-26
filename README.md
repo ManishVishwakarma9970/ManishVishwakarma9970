@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Manish Vishwakarma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;GenAI+Engineer;Data+Analytics+%26+Data+Science;AI+%26+LLM+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;GenAI+Engineer;Data+Analytics+%26+Data+Science;Tech+Enthusiast" />
 </p>
 
 <p align="center">
@@ -164,15 +164,11 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🔥 GitHub Contribution Calendar
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManishVishwakarma9970/ManishVishwakarma9970/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManishVishwakarma9970/ManishVishwakarma9970/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ManishVishwakarma9970/ManishVishwakarma9970/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
+<p align="center">
+  <img src="https://github-contributions.vercel.app/api?username=ManishVishwakarma9970&theme=tokyonight" />
+</p>
 
 ---
 
