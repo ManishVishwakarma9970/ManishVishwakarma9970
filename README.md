@@ -5,11 +5,11 @@
 <h1 align="center">Hi 👋, I'm Manish Vishwakarma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;GenAI+Engineer;Data+Analytics+%26+Data+Science;AI%2FML+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;GenAI+Engineer;Data+Analytics+%26+Data+Science;Cloud+Architect;AI%2FML+Enthusiast" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ManishVishwakarma9970/ManishVishwakarma9970/main/profile.jpg" width="160" style="border-radius:50%;border:3px solid #0F2027;box-shadow:0 0 20px rgba(0,194,255,0.5);" />
+  <img src="https://raw.githubusercontent.com/ManishVishwakarma9970/ManishVishwakarma9970/main/profile.jpg" width="160" style="border-radius:50%;border:3px solid #0F2027;box-shadow:0 0 20px rgba(0,194,255,0.5)" />
 </p>
 
 <p align="center">
@@ -19,13 +19,36 @@
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
-💡 Building **modern web + AI systems**  
-🤖 Deep into **LLMs, LangChain & RAG pipelines**  
-📊 Passionate about **Data Analytics & Data Science**  
-💻 Writing clean, scalable & production-ready code  
-🚀 Always learning & building incredible projects  
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>💡 Full-Stack Developer</h3>
+        <p>Building modern, scalable web applications with cutting-edge technologies</p>
+      </td>
+      <td width="50%">
+        <h3>🤖 GenAI & LLM Engineer</h3>
+        <p>Crafting intelligent systems with LangChain, RAG pipelines, and LLM integrations</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3>📊 Data Science & Analytics</h3>
+        <p>Transforming data into actionable insights with ML and statistical analysis</p>
+      </td>
+      <td width="50%">
+        <h3>☁️ Cloud & DevOps</h3>
+        <p>Deploying production-ready solutions with Docker, Kubernetes, and cloud platforms</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  ✨ <strong>Passionate about building incredible projects • Clean & scalable code • Always learning & growing</strong> ✨
+</p>
 
 ---
 
@@ -181,7 +204,7 @@
 
 <p align="center">
   <a href="https://github.com/ManishVishwakarma9970">
-    <img alt="GitHub Contribution Heatmap" src="https://github-readme-contribution-stats.vercel.app/api?username=ManishVishwakarma9970&hide_border=true&bg_color=0d1117&text_color=fff" />
+    <img alt="GitHub Contribution Heatmap" src="https://ghchart.rshah.org/ManishVishwakarma9970" />
   </a>
 </p>
 
@@ -190,7 +213,9 @@
 ## 📊 Contribution Stats
 
 <p align="center">
-  <img src="https://github-user-contribution.vercel.app/api?username=ManishVishwakarma9970&hide_border=true&bg_color=0d1117" />
+  <a href="https://github.com/ManishVishwakarma9970">
+    <img alt="GitHub Contribution Stats" src="https://github-readme-stats.vercel.app/api?username=ManishVishwakarma9970&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs" />
+  </a>
 </p>
 
 ---
