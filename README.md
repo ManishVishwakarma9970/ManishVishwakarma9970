@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Manish%20Vishwakarma&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/ManishVishwakarma9970/ManishVishwakarma9970/main/profile.jpg" width="160" style="border-radius:50%; border:3px solid #00C2FF;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Manish Vishwakarma</h1>
