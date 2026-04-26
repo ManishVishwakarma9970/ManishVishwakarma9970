@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Manish Vishwakarma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;GenAI+Engineer;Data+Analytics+%26+Data+Science;Building+Scalable+AI+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;GenAI+Engineer;Data+Analytics+%26+Data[...]" />
 </p>
 
 <p align="center">
@@ -139,9 +139,11 @@ https://github.com/ManishVishwakarma9970
 
 ## 🐍 Contribution Snake  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ManishVishwakarma9970/ManishVishwakarma9970/output/github-contribution-grid-snake.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ManishVishwakarma9970/ManishVishwakarma9970/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ManishVishwakarma9970/ManishVishwakarma9970/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/ManishVishwakarma9970/ManishVishwakarma9970/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
