@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ManishVishwakarma9970/ManishVishwakarma9970/main/profile.jpeg" width="160" style="border-radius:50%; border:3px solid #00C2FF;" />
+  <img src="https://raw.githubusercontent.com/ManishVishwakarma9970/ManishVishwakarma9970/main/Manish.jpeg" width="160" style="border-radius:50%; border:3px solid #00C2FF;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Manish Vishwakarma</h1>
