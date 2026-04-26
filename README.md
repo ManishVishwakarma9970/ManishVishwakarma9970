@@ -5,11 +5,11 @@
 <h1 align="center">Hi 👋, I'm Manish Vishwakarma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;GenAI+Engineer;Data+Analytics+%26+Data+Science;Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;GenAI+Engineer;Data+Analytics+%26+Data+Science;AI+%26+Machine+Learning" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ManishVishwakarma9970/ManishVishwakarma9970/main/profile.jpg" width="160" style="border-radius:50%;border:3px solid #0F2027;box-shadow:0 0 20px rgba(0,194,255,0.5)" />
+  <img src="https://raw.githubusercontent.com/ManishVishwakarma9970/ManishVishwakarma9970/main/profile.jpg" width="160" style="border-radius:50%;border:3px solid #0F2027;box-shadow:0 0 20px rgba(0,194,255,0.3);" />
 </p>
 
 <p align="center">
@@ -167,7 +167,7 @@
 ## 🔥 GitHub Contribution Calendar
 
 <p align="center">
-  <img src="https://github-contributions.vercel.app/api?username=ManishVishwakarma9970&theme=tokyonight" />
+  <img alt="GitHub Contribution Calendar" src="https://ghchart.roo.dev/ManishVishwakarma9970" />
 </p>
 
 ---
